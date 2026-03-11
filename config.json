@@ -2,13 +2,13 @@
   {
     "name": "ShellMetrics",
     "supabase_url": "https://nufjixarttcsuuiaxyiw.supabase.co",
-    "supabase_key_env": "SUPABASE_KEY_ShellMetrics",
+    "supabase_key_env": "SUPABASE_KEY_SHELLMETRICS",
     "table_name": "keep-alive"
   },
   {
     "name": "fishmetrics",
     "supabase_url": "https://tuzboeyeurscypwfegqk.supabase.co",
-    "supabase_key_env": "SUPABASE_KEY_FisherMetrics",
+    "supabase_key_env": "SUPABASE_KEY_FISHERMETRICS",
     "table_name": "KeepAlive"
   }
 ]
